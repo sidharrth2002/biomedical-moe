@@ -1,4 +1,4 @@
-# Bottled Brilliance: Bottled Brilliance: Gated Mixture of Experts for Biomedical Explainability
+# Bottled Brilliance: Gated Mixture of Experts for Biomedical Explainability
 
 Sidharrth Nagappan
 

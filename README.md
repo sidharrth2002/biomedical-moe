@@ -2,6 +2,9 @@
 
 Sidharrth Nagappan
 
+In the report, note that:
+- *fully supervised* refers to all-shot learning, where all training samples are used to train the model.
+
 Codebase is built on top of the original paper's code:
 
 # LaBo
